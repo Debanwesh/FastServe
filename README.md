@@ -1,2 +1,2 @@
 # FastServe
-SOTA FastAPI based ML Server for Serving ML &amp; GenAI use-cases with Atomic Config Updates, Use-case logic injection, Pedantic validations. All ready to use in minutes
+FastServe: A production-ready FastAPI template for serving ML & GenAI models. Built with atomic config updates, use-case logic injection, and Pydantic validation, so you can go from prototype to production in minutes.
